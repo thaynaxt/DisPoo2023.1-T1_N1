@@ -1,4 +1,4 @@
-#                                      TRABALHO DE POO
+
 
 
  <h3 align="center">Programas em JAVA</h3>
@@ -9,11 +9,9 @@
 
 -------------------------------------------------------------------------------
 
-<h3><h3><h3
-> TRABALHO 1 (N1)
 
-professor:Roger Moura Sarmento
-
-realizado por: Thayná Nascimento e Isabelly Barbosa
+💻 | Estou colaborando com [Thayná Nascimento](https://github.com/thaynaxt)<br>
+💻 | Repositório destinado aos exercícios resolvidos e propostos do T1 para compor a nota da primeira etapa do semestre 2023.1 na disciplina de Programção Orientada a Objetos em linguagem JAVA, sendo ministrada pelo professor Roger Moura.
 
 -------------------------------------------------------------------------------
+
